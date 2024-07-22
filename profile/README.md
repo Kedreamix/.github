@@ -4,7 +4,7 @@
       - 通用大规模语言模型 - [伶荔（Linly）](https://github.com/CVI-SZU/Linly)
         - **CSL: A Large-scale Chinese Scientific Literature Dataset (COLING 2022)** [[paper](https://aclanthology.org/2022.coling-1.344/)][[code](https://github.com/ydli-ai/CSL)]
         - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ACL 2023)** [[paper](https://arxiv.org/abs/2212.06385)][[code](https://github.com/Tencent/TencentPretrain)]
-        - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ICASSP 2024)**[[paper](https://arxiv.org/pdf/2405.10626)][[code](https://github.com/CVI-SZU/Linly)]
+        - **Dynamic data sampler for cross-language transfer learning in large language models (ICASSP 2024)**[[paper](https://arxiv.org/pdf/2405.10626)][[code](https://github.com/CVI-SZU/Linly)]
       - 人脸图文匹配基础模型
          - **FLIP-80M: 80 Million Visual-Linguistic Pairs for Facial Language-Image Pre-Training (ACM MM 2024)** [[paper]()][[code](https://huggingface.co/datasets/FLIP-dataset/FLIP-80M)]
          - **Talk2Face: A Unified Sequence-based Framework for Diverse Face Generation and Analysis Tasks (ACM MM 2022)** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548205)][[code](https://github.com/ydli-ai/Talk2Face)]
