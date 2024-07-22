@@ -8,7 +8,7 @@
       - 人脸图文匹配基础模型
          - **FLIP-80M: 80 Million Visual-Linguistic Pairs for Facial Language-Image Pre-Training (ACM MM 2024)** [[paper]()][[code](https://huggingface.co/datasets/FLIP-dataset/FLIP-80M)]
          - **Talk2Face: A Unified Sequence-based Framework for Diverse Face Generation and Analysis Tasks (ACM MM 2022)** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548205)][[code](https://github.com/ydli-ai/Talk2Face)]
-      - 多模态多器官分割大模型
+      - 腹部多器官分割多模态大模型
 
    2. 通用深度学习理论
       - 新型网络架构、特征提取模块提升CNN 性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
