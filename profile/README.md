@@ -1,9 +1,16 @@
 # 深圳大学计算机视觉研究所 :sunny: 
 ## 研究领域
-   1. 通用深度学习理论
+   1. 通用大语言模型及垂域多模态大模型
       - 通用大规模语言模型 - [伶荔（Linly）](https://github.com/CVI-SZU/Linly)
         - **CSL: A Large-scale Chinese Scientific Literature Dataset (COLING 2022)** [[paper](https://aclanthology.org/2022.coling-1.344/)][[code](https://github.com/ydli-ai/CSL)]
         - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ACL 2023)** [[paper](https://arxiv.org/abs/2212.06385)][[code](https://github.com/Tencent/TencentPretrain)]
+        - **TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities (ICASSP 2024)**[[paper](https://arxiv.org/pdf/2405.10626)][[code](https://github.com/CVI-SZU/Linly)]
+      - 人脸图文匹配基础模型
+         - **FLIP-80M: 80 Million Visual-Linguistic Pairs for Facial Language-Image Pre-Training (ACM MM 2022)** [[paper]()][[code](https://huggingface.co/datasets/FLIP-dataset/FLIP-80M)]
+         - **Talk2Face: A Unified Sequence-based Framework for Diverse Face Generation and Analysis Tasks (ACM MM 2024)** [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548205)][[code](https://github.com/ydli-ai/Talk2Face)]
+      - 多模态多器官分割大模型
+
+   2. 通用深度学习理论
       - 新型网络架构、特征提取模块提升CNN 性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
         - **WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification (IEEE TIP 2021)** [[paper](https://ieeexplore.ieee.org/document/9508165)]         
         - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
@@ -20,7 +27,7 @@
         - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
 
 
-  2. 弱监督物体检测/语义分割
+  3. 弱监督物体检测/语义分割
 
      - 基于图像类别标签的物体检测网络、语义分割网络，减少通用物体检测/分割网络对标注数据的要求。研究如何利用大规模预训练模型减少网络对训练数据的要求，在零样本开放数据上依然能够取得良好性能。
        - **Geometry Constrained Weakly Supervised Object Localization (ECCV 2020)** [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf)][[code](https://github.com/lwzeng/GC-Net)]
@@ -32,7 +39,7 @@
      - 基于场景一致性表示学习的视频场景分割
        - **Scene Consistency Representation Learning for Video Scene Segmentation (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Wu.pdf)] [[project](https://csse.szu.edu.cn/pages/research/details?id=195)] 
 
-  3. 人脸识别/分析
+  4. 人脸识别/分析
 
      基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
      
