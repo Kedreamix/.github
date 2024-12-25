@@ -77,6 +77,8 @@
        - **TextFace: Text-to-Style Mapping based Face Generation and Manipulation (IEEE TMM 2022)** [[paper](https://ieeexplore.ieee.org/abstract/document/9737433/)] [[project](https://houxianxu.github.io/assets/project/textface)]
      - 亲子关系人脸合成
          - **StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis (CVPR2023 Highlight 2.6%)** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_StyleGene_Crossover_and_Mutation_of_Region-Level_Facial_Genes_for_Kinship_CVPR_2023_paper.pdf)] [[project](https://github.com/CVI-SZU/StyleGene)]
+     - 基于语音的人脸生成
+       - **DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis (ICASSP 2025)** [[paper]()] [[code](https://github.com/CVI-SZU/DEGSTalk)]
 
   6. 医学图像智能分析
 
